@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>JPEGImages</folder>
+		<filename>183.jpg</filename>
+		<size>
+			<width>800</width>
+			<height>600</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>areaC</name>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>305.12269938650303</xmin>
+				<ymin>1.2269938650306749</ymin>
+				<xmax>556.0429447852761</xmax>
+				<ymax>184.66257668711654</ymax>
+			</bndbox>
+		</object>
+	</annotation>

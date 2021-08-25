@@ -1,0 +1,1 @@
+paddlex --export_inference --model_dir=./output/yolov3_mobilenetv3/best_model --save_dir=./inference_model
