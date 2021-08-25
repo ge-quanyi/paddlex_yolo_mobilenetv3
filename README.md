@@ -1,0 +1,2 @@
+# paddlex_yolo_mobilenetv3
+本地yolo_mobilenetv3训练
